@@ -1,2 +1,2 @@
 # Budget-Tracker
-Simple javasript application to track income and expenses.
+Simple javascript application to track income and expenses.
